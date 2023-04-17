@@ -1,0 +1,17 @@
+#Si el empleado es casado y tiene hijos se le otorgará un paseo cada diciembre
+
+empleado = (input("Estado civil ")) 
+
+if empleado in "casado con hijos":
+       print("Es apto para el paseo de diciembre")
+else:
+    print("No aplica ")
+    
+
+
+
+
+
+  
+
+
